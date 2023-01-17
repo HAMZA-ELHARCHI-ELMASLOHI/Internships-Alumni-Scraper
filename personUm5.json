@@ -1,0 +1,97 @@
+[
+     {
+          "name": "Wafaa H.",
+          "title": "Full Stack Web Developer",
+          "location": "Prefecture of Salé, Rabat-Salé-Kenitra, Morocco",
+          "company": "ISMAGI Rabat",
+          "experiences": []
+     },
+     {
+          "name": "Zakaria Adiel",
+          "title": "software developer | back-end developer | data scientist",
+          "location": "Prefecture of Casablanca, Casablanca-Settat, Morocco",
+          "company": "Azentio Software",
+          "experiences": []
+     },
+     {
+          "name": "Anas Zidane",
+          "title": "Président du club de recherche & développement économique.    Président du club EPSY pour le développement personnel.  Ambassadeur de l'organisation MSA.   Licence fondamentale à la FEG en sciences économiques.",
+          "location": "Casablanca-Settat, Morocco",
+          "company": "Club des etudes prospectives et infos economiques",
+          "experiences": []
+     },
+     {
+          "name": "kaouthar el ouatri",
+          "title": "développeur PHP/Symfony",
+          "location": "Morocco",
+          "company": "Fondation Cheikh Khalifa Ibn Zaid Al Nahyan Maroc",
+          "experiences": []
+     },
+     {
+          "name": "Meryam Aboufirass",
+          "title": "Profil Marketing & Communication, 𝘱𝘳ê𝘵𝘦 à 𝘳𝘦𝘭𝘦𝘷𝘦𝘳 𝘥𝘦 𝘯𝘰𝘶𝘷𝘦𝘢𝘶𝘹 𝘥é𝘧𝘪𝘴  🔎",
+          "location": "Rabat-Salé-Kenitra, Morocco",
+          "company": "Sofrecom Maroc",
+          "experiences": []
+     },
+     {
+          "name": "Othmane DAOUDI",
+          "title": "Manager Pôle RH et Formation",
+          "location": "Rabat, Rabat-Salé-Kenitra, Morocco",
+          "company": "Cat-Amania",
+          "experiences": []
+     },
+     {
+          "name": "Soukaina BOUKHLIFI",
+          "title": "Consultante RPA (Uipath) | RPA Developer | Data Engineer | Data Scientist | Artificial Intelligence engineer",
+          "location": "Prefecture of Casablanca, Casablanca-Settat, Morocco",
+          "company": "Capgemini",
+          "experiences": []
+     },
+     {
+          "name": "Samia EL Ghrib",
+          "title": "Chargée de Recrutement et de Formation",
+          "location": "Rabat, Rabat-Salé-Kenitra, Morocco",
+          "company": "MPH Solutions",
+          "experiences": []
+     },
+     {
+          "name": "Fatiha JALIL",
+          "title": "Lead Software Engineer",
+          "location": "Morocco",
+          "company": "Orange Business Services au Maroc",
+          "experiences": [
+               "Ingénieur logicielsIngénieur logiciels",
+               "Lead Software EngineerLead Software Engineer",
+               "Ingénieur d'études et de développement Confirmée Java/JEEIngénieur d'études et de développement Confirmée Java/JEE",
+               "Ingénieur d'études et de développement Java/JEEIngénieur d'études et de développement Java/JEE",
+               "Ingénieur en informatiqueIngénieur en informatique"
+          ]
+     },
+     {
+          "name": "Imane Tahri",
+          "title": "Human Resources Manager chez Avaliance",
+          "location": "Rabat, Rabat-Salé-Kenitra, Morocco",
+          "company": "Avaliance Maroc",
+          "experiences": [
+               "Avaliance MarocAvaliance Maroc",
+               "Human Resources ManagerHuman Resources Manager",
+               "Human Resources Development Human Resources Development",
+               "Consultante recrutementConsultante recrutement",
+               "Chargée de recrutement Chargée de recrutement",
+               "Chragée de projetsChragée de projets"
+          ]
+     },
+     {
+          "name": "Aïda Belhajjame",
+          "title": "Risk Manager",
+          "location": "Morocco",
+          "company": "RMA Capital",
+          "experiences": [
+               "Risk ManagerRisk Manager",
+               "Groupe crédit agricole du MarocGroupe crédit agricole du Maroc",
+               "StagiaireStagiaire",
+               "StagiaireStagiaire"
+          ]
+     }
+]
